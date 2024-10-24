@@ -15,6 +15,7 @@ To view and run the Jupyter Notebooks in this repository, you'll need to have Ju
    ```bash
    jupyter notebook
 3. **Open Jupyter Notebook**:
+   ```bash
    git clone https://github.com/your-username/your-repository-name.git
    cd your-repository-name
 4. **Open the project**:
